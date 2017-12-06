@@ -1,3 +1,6 @@
+[submodule "linux-dash"]
+	path = linux-dash
+	url = https://github.com/afaqurk/linux-dash
 [submodule "mysql-monitor"]
-	path = mysql-monitor
-	url = https://github.com/afaqurk/mysql-monitor
+path=mysql-monitor
+url = https://github.com/afaqurk/mysql-monitor
