@@ -1,0 +1,3 @@
+[submodule "mysql-monitor"]
+	path = mysql-monitor
+	url = https://github.com/afaqurk/mysql-monitor
